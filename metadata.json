@@ -1,0 +1,6 @@
+{
+  "name": "DesignLens - Semantic Search Interface for Product Design",
+  "description": "Semantic search interface and retrieval benchmark for fashion and product design assets powered by Gemini embeddings and BM25.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
